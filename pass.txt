@@ -1,0 +1,3 @@
+#Merci de garder la même architecture (le programme prend en compte les espaces)
+pseudo=76fb09f9d15a111308b67154942cc067c179e4102ea30b84ba81faccba0de3f2
+password=60eebea22b39bbd35014da3bf7bd0fb14cbe6d4f739a1703694889373f75ac2d
