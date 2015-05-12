@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 class FileLog :
     """ gère les log et autres fichier"""
     

@@ -1,4 +1,5 @@
-from tkinter import *
+# -*- coding: UTF-8 -*-
+from Tkinter import *
 from socket import *
 from threading import *
 from time import *
