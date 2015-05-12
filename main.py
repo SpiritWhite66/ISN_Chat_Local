@@ -1,5 +1,5 @@
-# - * - Codage: utf-8 - * -
-from tkinter import *
+# -*- coding: UTF-8 -*-
+from Tkinter import *
 from dialog import *
 from socket import *
 from threading import *
