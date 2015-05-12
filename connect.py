@@ -1,4 +1,5 @@
-from tkinter import *
+# -*- coding: UTF-8 -*-
+from Tkinter import *
 #from PIL import Image, ImageTk
 from log import *
 from hashlib import *
